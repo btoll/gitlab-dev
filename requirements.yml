@@ -1,0 +1,13 @@
+---
+- src: https://github.com/btoll/ansible-role-common
+  version: main
+  name: common
+
+- src: https://github.com/geerlingguy/ansible-role-ruby
+  version: master
+  name: ruby
+
+- src: https://github.com/btoll/ansible-role-docker
+  version: main
+  name: docker
+
